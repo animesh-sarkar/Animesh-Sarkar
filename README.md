@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: animesh.s.82@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=animeshh-sarkar)](https://github.com/ryo-ma/github-profile-trophy)
