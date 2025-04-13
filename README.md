@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 - [![trophy](https://github-profile-trophy.vercel.app/?username=animesh-sarkar)](https://github.com/ryo-ma/github-profile-trophy)
+- 
+[![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=animesh-sarkar)](https://github.com/anuraghazra/github-readme-stats)
